@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+    <title>CSS Practice</title>
+    <link href="anExternal.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+    <h1>Bridget's Master CSS</h1>
+    <h2>Here is a box</h2>
+    <div id="box"></div>
+    <div id="container"></div>
+    <p>Floating happens with the float css element!</p>
+</body>
+</html>
