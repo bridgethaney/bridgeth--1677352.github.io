@@ -1,0 +1,42 @@
+.container {
+    background-color: navy;
+}
+
+.form-group {
+    border: solid 1px cornflowerblue;
+    background-color: cornflowerblue;
+    color: white;
+    text-transform: uppercase;
+}
+
+.form-control {
+    text-align: left;
+    font-family: arial;
+    font-weight: bold;
+    color: navy;
+}
+
+h2 {
+    color: white;
+    font-family: helvetica;
+}
+
+h3 {
+    color: cornflowerblue;
+}
+
+.computer {
+    width: 200px;
+    height: 200px;
+    border: solid 2px cornflowerblue;
+}
+
+p {
+    color: cornflowerblue;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-image: url("video\ blocks.png");
+}
